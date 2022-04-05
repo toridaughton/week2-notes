@@ -1,0 +1,3 @@
+array.map() is a built in function
+
+arrow functions automatically return when no {} used

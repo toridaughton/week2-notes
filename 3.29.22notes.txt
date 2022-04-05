@@ -1,0 +1,14 @@
+key = property
+
+objects: groups of lableled data
+
+
+Objects of the type Dog = Instances of the class Dog
+
+const{drink: myDrink} = meal
+
+can no longer console.log(drink) because it was renamed to myDrink
+
+common variable name for a for in loop: key, prop, attribute
+
+constructor is a built in function 
